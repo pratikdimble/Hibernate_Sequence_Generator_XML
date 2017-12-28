@@ -35,7 +35,7 @@ public class ClientTest {
 						} catch (Exception e) {
 							tx.rollback();
 
-						}
+				//close the session and sesssion factory		}
 		        ses.close();
 		        factory.close();
 
