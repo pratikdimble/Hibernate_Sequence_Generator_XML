@@ -1,0 +1,1 @@
+# Hibernate_Sequence_Generator_XML
